@@ -1,0 +1,48 @@
+
+.backround-code {
+    background-color: antiquewhite;
+}
+.desine-cod-style {
+    background-color: rgb(249, 249, 162);
+}
+.yellow-marker {
+    background-color: yellow;
+}
+
+.conteiner-cod-style {
+    display: inline;
+    background-color: rgb(249, 249, 162);
+}
+
+.conteiner-code {
+    display: inline;
+    background-color: antiquewhite;
+}
+.conteiner-navadaptiv {
+    background-color: #e9e9e6;
+}
+
+/* navbar */
+
+.navbar {
+    display: flex;
+    background-color: rgb(83, 81, 81);
+}
+
+.nav-list {
+    display: flex;
+}
+
+/* ссылки -кнопки nav-list */
+
+.nav-list a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+}
+
+/* псевдокласс -изменение кнопок  */
+.nav-list a:hover {
+    background-color: rgb(145, 142, 142);
+}
